@@ -1,0 +1,14 @@
+[project]
+name = "kb-comfyui-nodes"
+description = "Nodes:SingleImageDataUrlLoader"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/smagnetize/kb-comfyui-nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "kb-comfyui-nodes"
+Icon = ""
